@@ -3,37 +3,37 @@
   {
     "id": "1",
     "name": "Коля",
-    "email": "qwerty@gmail.com"
+    "email": "nick@gmail.com"
   },
   {
     "id": "2",
     "name": "Влад",
-    "email": "abc@gmail.com"
+    "email": "vlad@gmail.com"
   },
   {
     "id": "3",
     "name": "Вася",
-    "email": "abc@gmail.com"
+    "email": "vasya@gmail.com"
   },
   {
     "id": "4",
     "name": "Федя",
-    "email": "def@gmail.com"
+    "email": "fedya@gmail.com"
   },
   {
     "id": "5",
     "name": "Юра",
-    "email": "xyz@gmail.com"
+    "email": "ura@gmail.com"
   },
   {
     "id": "6",
     "name": "German",
-    "email": "abc@gmail.com"
+    "email": "german@gmail.com"
   },
   {
     "id": "7",
     "name": "Дашка - Ведьма!",
-    "email": "abc@gmail.com"
+    "email": "dashka@gmail.com"
   }
 ]
 }
