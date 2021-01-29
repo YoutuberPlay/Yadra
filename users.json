@@ -7,18 +7,33 @@
   },
   {
     "id": "2",
-    "name": "Вася",
+    "name": "Влад",
     "email": "abc@gmail.com"
   },
   {
     "id": "3",
+    "name": "Вася",
+    "email": "abc@gmail.com"
+  },
+  {
+    "id": "4",
     "name": "Федя",
     "email": "def@gmail.com"
   },
   {
-    "id": "4",
+    "id": "5",
     "name": "Юра",
     "email": "xyz@gmail.com"
+  },
+  {
+    "id": "6",
+    "name": "German",
+    "email": "abc@gmail.com"
+  },
+  {
+    "id": "7",
+    "name": "Дашка - Ведьма!",
+    "email": "abc@gmail.com"
   }
 ]
 }
